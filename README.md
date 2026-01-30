@@ -1,12 +1,21 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<div align="center">
+  <h1 align="center">Kodigo Music 🎧</h1>
+  <p align="center">
+    Reproductor de música moderno y elegante.
+    <br />
+    <a href="#">Ver Demo</a>
+  </p>
+</div>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 📌 Sobre el Proyecto
+Aplicación de streaming de música que consume una API REST para listar canciones, artistas y álbumes. Incluye controles de reproducción completos.
+### Características
+*   Reproducción, pausa y control de volumen.
+*   Listado dinámico desde API.
+*   Interfaz moderna con Tailwind CSS.
+## 🚀 Instalación
+\`\`\`bash
+npm install
+npm run dev
+\`\`\`

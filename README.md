@@ -3,7 +3,6 @@
   <p align="center">
     Reproductor de música moderno y elegante.
     <br />
-    <a href="#">Ver Demo</a>
   </p>
 </div>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
